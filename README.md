@@ -23,6 +23,11 @@ Word2Vec is a groundbreaking approach in NLP, known for its ability to capture c
 ## Usage
 This notebook is intended for students, researchers, and developers with an interest in machine learning and NLP. It serves as both an educational resource and a practical guide for integrating Word2Vec into various NLP pipelines.
 
+You have to install these files to run the notebook:
+1. cc.en.300.bin.gz
+2. glove.6B.100d.txt
+3. cc.en.300.bin
+   
 ## Contributions
 Contributions are encouraged to enhance the functionality of the models, such as by improving preprocessing techniques, experimenting with different architecture settings, or extending the notebook to cover more advanced applications of embeddings.
 
